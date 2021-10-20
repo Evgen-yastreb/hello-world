@@ -37,3 +37,9 @@ class Ship:
     def shoot(self, shot):
         return shot in self.dots
 
+
+class Board:
+    pass
+
+class game:
+    pass
